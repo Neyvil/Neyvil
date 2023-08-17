@@ -81,7 +81,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Neyvil/Neyvil/output/snake.svg" alt="Snake animation" />
-
-###
