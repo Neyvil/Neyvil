@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">"I'm NABAJYOTI, hailing from the enchanting land of Rourkela,Odisha. <br><br>🔭 By day, I'm immersed in the world of tech, where I craft digital wonders and transform complex ideas into elegant solutions.<br><br>📚 Currently, I'm on an exhilarating journey of mastering Web-Development,Blockchain,Data management , constantly pushing my boundaries to stay at the forefront of innovation.<br><br>⚡ When I'm not busy weaving code, you'll find me building some creative things, whether it's exploring the realms of augmented reality, indulging in sci-fi novels, or embarking on epic hiking adventures.<br><br>Join me as I navigate the ever-evolving landscape of technology, one commit at a time!"</p>
+<p align="left">"I'm NABAJYOTI, hailing from the enchanting land of Rourkela,Odisha. <br><br>🔭 By day, I'm immersed in the world of tech, where I craft digital wonders and transform complex ideas into elegant solutions.<br><br>📚 Currently, I'm on an exhilarating journey of mastering JAVASCRIPT<br><br>⚡ When I'm not busy weaving code, you'll find me building some creative things, whether it's exploring the realms of augmented reality, indulging in sci-fi novels, or embarking on epic hiking adventures.<br><br>Join me as I navigate the ever-evolving landscape of technology, one commit at a time!"</p>
 
 ###
 
