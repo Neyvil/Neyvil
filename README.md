@@ -109,12 +109,13 @@ Stay tuned for updates!
 ## 📊 GitHub Pulse
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neyvil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neyvil&theme=tokyonight&hide_border=true&background=0D1117" height="180"/>
-</div>
+  
+![Nabajyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neyvil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neyvil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neyvil&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neyvil&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
@@ -127,6 +128,6 @@ Stay tuned for updates!
 
 **Let's build something amazing together** 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=Neyvil&color=blueviolet&style=for-the-badge)
+
 
 </div>
